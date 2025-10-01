@@ -1,0 +1,17 @@
+
+["클라이언트 설정"]
+	#F3을 심플하게 보여줍니다.
+	enabled = true
+	#FPS를 보여줍니다.
+	fps = true
+	#FPS 아래 여백을 넣습니다.
+	fps-below-space = false
+	#좌표를 한 줄로 표기합니다.
+	coordinate-single-line = false
+	#Yaw와 Pitch를 보여줍니다.
+	yaw-and-pitch = false
+	#방향을 한국어로 보여줍니다.
+	korean-direction = true
+	#바이옴을 한국어로 보여줍니다.
+	korean-biome = true
+
